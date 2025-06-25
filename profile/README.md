@@ -16,5 +16,3 @@ We're just getting started, and we’d love for you to be a part of it.
 All future projects will be open-sourced under the [MIT License](LICENSE).
 
 ---
-
-Want help writing a `CONTRIBUTING.md`, GitHub profile bio, or the first issue template too?
